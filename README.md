@@ -15,7 +15,7 @@ A fun and simple web-based Coin Flipper made with HTML, CSS, and JavaScript. Cli
 
 > 📸 Make sure `heads.jpg` and `tails.jpeg` are placed in the **same folder** as `index.html`.
 
-## 🚀 [For Live Demo Click Here]()
+## 🚀 [For Live Demo Click Here](https://mohanpoluri.github.io/Flip-the-Coin/)
 
 *******TO RUN IN YOR SYSTEM******* 
 
